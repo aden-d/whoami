@@ -12,7 +12,7 @@ const introdata = {
         third: "I code in python",
     },
     description: "I am addicted to hacking, more for the intellectual challenge, the curiosity, the seduction of adventure; not for stealing, or causing damage or writing computer viruses.",
-    your_img_url: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWVuJTIwd2l0aCUyMG5vJTIwZmFjZXxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
